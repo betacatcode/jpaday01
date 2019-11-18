@@ -15,8 +15,8 @@
                 用户名 密码 驱动 数据库地址
             -->
             <property name="javax.persistence.jdbc.user" value="root"></property>
-            <property name="javax.persistence.jdbc.password" value="123456"></property>
-            <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"></property>
+            <property name="javax.persistence.jdbc.password" value="12345"></property>
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"></property>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql:///jpa?serverTimezone=UTC"></property>
 
             <!--可选配置:配置jpa实现方的配置信息
