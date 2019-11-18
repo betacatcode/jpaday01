@@ -45,7 +45,7 @@ public class JpaTest {
 
         //4.
         Customer customer=new Customer();
-        customer.setCustName("张三");
+        customer.setCustName("王五");
         customer.setCustIndustry("科院");
 
         //5.
