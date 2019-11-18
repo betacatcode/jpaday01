@@ -9,8 +9,8 @@
         <module name="jpa-day1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="jpa-day1" target="1.5" />
+    <bytecodeTargetLevel target="13">
+      <module name="jpa-day1" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
